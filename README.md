@@ -1,3 +1,4 @@
+# To get up and running
 truffle compile
 truffle migrate OR truffle migrate --reset
 truffle test
